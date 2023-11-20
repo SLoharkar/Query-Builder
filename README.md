@@ -1,5 +1,5 @@
 # Query-Builder
-MongoDB NOSQL Database Query Builder Java Spring Boot Application
+MongoDB Query Builder (JWT Authentication)
 
 ## Features
 - MongoDB NOSQL Database (JSON)
@@ -22,7 +22,7 @@ git clone https://github.com/SLoharkar/Query-Builder.git
 
 ## Website Trailer
 
-https://github.com/SLoharkar/Query-Builder/assets/68845746/7bd64c30-b112-454f-84b0-b2a0121641e9
+https://github.com/SLoharkar/Query-Builder/assets/68845746/bde724b1-f39f-463d-8917-76faf954be9a
 
 
 ## Website Highlights
