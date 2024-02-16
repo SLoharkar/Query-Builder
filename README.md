@@ -1,7 +1,15 @@
 # Query-Builder
 MongoDB Query Builder (JWT Authentication)
 
-## Features
+
+## Project Overview
+- MongoDB Query Builder with pagination feature
+- Automates the query creation process for clients
+- Simplifies complex query generation
+- Enhances efficiency and usability for users
+
+
+## Technology Used
 - MongoDB NOSQL Database (JSON)
 - Spring Security with JWT Authentication
 - lombok
@@ -10,8 +18,8 @@ MongoDB Query Builder (JWT Authentication)
 - Exception Handling Using Global Exception and Custom Exception
 - Solid Principles
 - Easy to Understand Code
- 
 
+ 
 ## Installation
 - Just, Clone this repository - 
 ````bash 
